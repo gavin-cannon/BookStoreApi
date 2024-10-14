@@ -1,6 +1,6 @@
 # Overview
 
-This is a API built using ASP.NET Core. It is built around the idea of a bookstore. This was built to help me learn about .NET and its different options and configurations. It wasn't the first API I have built, but it was nice to use C# and .NET to make an API as it helped me connect it to what I learned using Node.js.
+This is an API built using ASP.NET Core. This was built to help me learn about ASP.NET Core. This wasn't the first API I've built, but it was nice to use C# and .NET to make one. This project helped me expand my knowlege of building APIs by comparing it to using Node.js. Its a pretty simple API with the usual CRUD endpoints. It might not work as too much time has elapsed for the data to be accessible.
 
 ![BookStoreApi Screenshot](./images/bookapi.jpg)
 
